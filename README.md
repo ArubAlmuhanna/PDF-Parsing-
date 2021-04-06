@@ -7,7 +7,7 @@ Recommended Food Storage Times Cold and Dry Refrigerated and Frozen Foods.PDF
 
 ### Sample
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/67848891/113753378-b5329d80-9716-11eb-9514-45df79ae7d84.png">
+<img width="570" alt="image" src="https://user-images.githubusercontent.com/67848891/113755864-76521700-9719-11eb-8fa6-be8dfb62ab95.png">
 
 
 ## Output File: 
