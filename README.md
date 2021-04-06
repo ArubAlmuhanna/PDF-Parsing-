@@ -5,5 +5,14 @@ This project uses Python to parse a PDF file. The main goal is to extract multip
 ## Input File
 Recommended Food Storage Times Cold and Dry Refrigerated and Frozen Foods.PDF
 
+### Sample
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/67848891/113753378-b5329d80-9716-11eb-9514-45df79ae7d84.png">
+
+
 ## Output File: 
 Food_Storage.csv
+
+### Sample
+
+<img width="532" alt="image" src="https://user-images.githubusercontent.com/67848891/113755765-5f132980-9719-11eb-83df-89a569405019.png">
